@@ -10,6 +10,7 @@ namespace priora2
     {
         private string name;
         private int energy;
+
         public string Name
         {
             get { return name; }
